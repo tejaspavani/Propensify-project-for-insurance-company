@@ -33,13 +33,12 @@ The model effectively identifies customer segments most likely to respond to mar
 - Seaborn
 
 ## Installation and Running Guide
-1. Clone the repository: `git clone [repository-link]`
+1. Clone the repository: `git clone https://github.com/tejaspavani/Propensify-project-for-insurance-company`
 2. Install required libraries: `pip install -r requirements.txt`
 3. Run the Jupyter Notebook: `jupyter notebook`
 
 ## Contributors
-- [Your Name]: [Your Contact Information]
+Tejas Pavani [tejaspavani14@gmail.com]
 
-## License
-This project is licensed under the [License Name].
+
 
